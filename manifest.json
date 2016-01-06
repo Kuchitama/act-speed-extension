@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "act change rate",
+  "description": "ACTの動画再生速を変更するExtension",
+  "version": "0.1.0",
+  "browser_action": {
+    "default_icon": "act.png",
+    "default title": "Act Change Rate"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://act.share-wis.com/lectures/*"
+      ],
+      "css": [],
+      "js": [
+        "js/content_scripts/common.js"
+      ]
+    }
+  ]
+}
