@@ -11,7 +11,8 @@ This extension add buttons to change video speed of ShareWis ACT.
 # Install
 
 1. Download lates act-speed-extension.crx from [releases](https://github.com/Kuchitama/act-speed-extension/releases).
-2. Open that the crx file and confirm to install on Chrome.
+2. Open [chrome://extensions](chrome://extensions) by Google Chrome.
+3. Drag and drop a donloaded crx file to the opened tab.
 
 # Contributing
 
