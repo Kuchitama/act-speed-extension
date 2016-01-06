@@ -4,9 +4,13 @@
 This is Google Chrome Extension to change video speed in [ShareWis ACT](https://act.share-wis.com/).
 This is __unofficial__ extension of ShareWis Act.
 
+# Feature
+
+This extension add buttons to change video speed of ShareWis ACT.
+
 # Install
 
-1. Download lates act-speed-extension.crx from releases.
+1. Download lates act-speed-extension.crx from [releases](https://github.com/Kuchitama/act-speed-extension/releases).
 2. Open that the crx file and confirm to install on Chrome.
 
 # Contributing
