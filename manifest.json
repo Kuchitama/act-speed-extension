@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Act Change Rate",
   "description": "ACTの動画再生速を変更するExtension",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "browser_action": {
     "default_icon": "act.png",
     "default_title": "Act Change Rate",
